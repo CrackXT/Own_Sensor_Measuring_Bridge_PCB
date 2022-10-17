@@ -1,2 +1,3 @@
 # Own_Sensor_Measuring_Bridge_PCB
-Platzhalter
+
+PCB files for Sensor Measuring Bridge 
