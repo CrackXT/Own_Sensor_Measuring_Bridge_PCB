@@ -8,6 +8,10 @@ Allows the current consumption of sensors to be measured.
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
+# Serie
+
+- .dev
+
 # Layout
 
 Top
