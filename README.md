@@ -23,6 +23,8 @@ Bottom
 Routing/Dimensions(inch)
 ![SMB_v1 0](https://user-images.githubusercontent.com/88975406/204139991-c0b6fdf2-7975-459f-9a26-c96e3f2f8636.png)
 
+Schematic as .pdf at the top of the page.
+
 # License
 
 Open hardware, use it, mod it, whatever you want, feel free...
